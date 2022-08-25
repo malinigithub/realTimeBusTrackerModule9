@@ -16,6 +16,9 @@ This project offers two features:
 2. Open the index.html in a browser window to execute this project. 
 3. There is a button on top left of the page, and the information about this is provided in project description above. Use the buttons to execute the code. 
 
+# Image
+<img src="images/realTimeBusTracker.png" alt="real time bus tracker image"/> 
+
 # Future Improvements:
 - The 'Move bus between MIT and Harvard' button - if this button is pressed multiple times when game is already in motion, it increases the speed of the bus move (the black marker moves faster)
 - This can be enhanced further 
